@@ -1,0 +1,8 @@
+quantum-metal
+qutip
+scqubits
+stim
+pymatching
+numpy==2.3.5
+matplotlib
+pandas

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Superconducting qubit chip: an end-to-end design study"
+type: software
+authors:
+  - family-names: Bilgin
+    given-names: Faruk Sami
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0001-9064-4410"
+license: MIT
+repository-code: "https://github.com/FarukSamiBilgin/superconducting-qubit-chip-design"
+date-released: 2026-11-15
+keywords:
+  - transmon
+  - superconducting qubits
+  - quantum-metal
+  - scqubits
+  - qutip
+  - quantum error correction
