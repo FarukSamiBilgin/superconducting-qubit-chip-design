@@ -83,4 +83,4 @@ above). For that reason none of its numbers are quoted here as results.
 See [`CITATION.cff`](CITATION.cff). Code: MIT ([`LICENSE`](LICENSE)); text, figures, data: CC BY 4.0
 ([`LICENSE-CONTENT`](LICENSE-CONTENT)).
 
-AI assistance: AI coding assistants were used for code development and for adversarial review. All load-bearing results were re-derived by independent methods and checked by automated tests; the author is responsible for every claim.
+AI assistance: AI coding assistants were used for code development and for adversarial review. This repository has no automated test suite; results are produced by running the notebook, and the author is responsible for every claim.
